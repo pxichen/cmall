@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.shixun.online.cmall.user.mapper.UserMapper">
+    <select resultType="com.shixun.online.cmall.bean.UmsMember" id="selectAllUser">
+select t.* from ums_member t </select>
+
+</mapper>
