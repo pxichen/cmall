@@ -37,7 +37,7 @@
 
         <batik-ext.version>1.9.1</batik-ext.version>
 
-        <jsoup.version>1.11.2</jsoup.version>
+        <jsoup.version>1.14.2</jsoup.version>
 
         <httpclient.version>4.5.5</httpclient.version>
 
